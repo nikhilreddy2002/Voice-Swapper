@@ -116,7 +116,7 @@ Instead, we configure a CycleGAN using gated CNNs that not only allow paralleliz
 We propose MelGAN-VC, a voice conversion method that relies on non-parallel speech data and is able to convert audio signals of arbitrary length from a source voice to a target voice. We firstly compute spectrograms from waveform data and then perform a domain translation using a Generative Adversarial Network (GAN) architecture. An additional siamese network helps preserving speech information in the translation process, without sacrificing the ability to flexibly model the style of the target speaker.
 
 <a href="https://arxiv.org/pdf/1910.03713.pdf">
-    <img src="images/melGAN.jpg" alt="Logo" width="80" height="80">
+    <img src="images/melGAN.fpg.jpeg" alt="Logo" width="80" height="80">
  </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
